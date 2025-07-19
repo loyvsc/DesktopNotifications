@@ -1,4 +1,6 @@
-# DesktopNotifications
+# loyvsc/DesktopNotificationsFixed
+
+Usable version of pr8x/DesktopNotifications
 
 A cross-platform C# library for native desktop "toast" notifications.
 
