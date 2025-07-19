@@ -15,6 +15,7 @@
 		<Description>A cross-platform C# library for native desktop "toast" notifications.</Description>
 		<PackageLicenseExpression>MIT</PackageLicenseExpression>
 		<PackageProjectUrl>https://github.com/loyvsc/DesktopNotifications</PackageProjectUrl>
+		<PackageId>DesktopNotificationsFixed</PackageId>
 	</PropertyGroup>
 
 </Project>

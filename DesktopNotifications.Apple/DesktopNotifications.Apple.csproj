@@ -18,6 +18,7 @@
 		<Authors>DesktopNotifications.Apple</Authors>
 		<Product>DesktopNotifications.Apple</Product>
 		<Company>DesktopNotifications.Apple</Company>
+		<PackageId>DesktopNotificationsFixed.Apple</PackageId>
 	</PropertyGroup>
 
 	<ItemGroup>
